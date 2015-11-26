@@ -67,14 +67,17 @@
 - [Unikernel demo source code](http://unikernel.org/blog/2015/contain-your-unikernels/)
 - [Container Migration Tool](https://github.com/marcosnils/cmt)
 - IPVS Daemon [gorb](http://github.com/kobolog/gorb)
+- [dvol](https://github.com/ClusterHQ/dvol)
 - [Using Docker to parallelize rails tests](http://blog.codeship.com/using-docker-to-parallelize-rails-tests) with [Jet](https://codeship.com/documentation/tags/jet/)
 - AWS Immutable Deployment Framework [ionroller](https://github.com/gilt/ionroller) - Alternative: Cloudformation+CodeDeploy
 - Docker Labels Linter: [Docker-label-inspector](https://github.com/garethr/docker-label-inspector)
 - DNS Service Discovery for Swarm: [wagl](https://github.com/ahmetalpbalkan/wagl)
+- Scaling [Spark](http://spark.apache.org/) with [Zoe analytics](http://zoe-analytics.eu/)
+- [Helm](https://helm.sh/)
+- VMWare [Photon Controller](http://vmware.github.io/photon-controller/)
 - Yelp's [PaaSTA](https://github.com/Yelp/paasta/)
 - [ecs-cli up](http://www.slideshare.net/Docker/from-local-development-to-production-deployments-using-amazon-ecs-cli)
-- Embedded Linxu - [Yocto](https://www.yoctoproject.org/)
-- Scaling [Spark](http://spark.apache.org/) with [Zoe analytics](http://zoe-analytics.eu/)
+- Embedded Linux - [Yocto](https://www.yoctoproject.org/), used by Resin.io
 
 ** [Twitter Stream](https://twitter.com/search?q=%40dockercon%20OR%20%23dockercon) **
 
