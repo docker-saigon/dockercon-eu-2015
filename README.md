@@ -39,7 +39,7 @@
 - [Docker Trusted Registry 1.4](http://blog.docker.com/2015/11/docker-trusted-registry-1-4/)
 - Build part: [Docker Automated build system has been re-written into version 2.0](https://blog.docker.com/2015/11/upgraded-autobuild-docker-hub/)
 - Deploy part: [Acquisition of Tutum.](https://www.docker.com/tutum) [Demo (is cut off)](https://youtu.be/i8YM4bkpR-E?t=987)
-  - Refer back to [Project Orca](https://youtu.be/8vSPpPSd00w?t=5228) which is what graduated into "Universal Control Plane"
+  - Refer back to [Project Orca](https://youtu.be/8vSPpPSd00w?t=5228) which is what graduated into ["Universal Control Plane"](http://www.docker.com/universal-control-plane)
   - [Docker Subscription on AWS Now Available in Europe](http://blog.docker.com/2015/11/aws-docker-eu/)
 - Closing Session: [Cool Hacks from DockerCon EU](http://blog.docker.com/2015/11/dockercon-eu-2015-container-migration-tool/)
   - Container Migration Tool: [DockerCon Demo](https://youtu.be/ZBcMy-_xuYk?t=221) - [Blog](http://blog.mantika.io/GHD/)
