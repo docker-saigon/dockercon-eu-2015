@@ -30,10 +30,8 @@
 | ["Kernel load-balancing for Docker containers using IPVS"](http://www.slideshare.net/Docker/kernel-load-balancing-for-docker-containers-using-ipvs) [@kobolog](http://twitter.com/kobolog) | ["The latest in Docker Engine"](http://www.slideshare.net/Docker/the-latest-on-docker-engine-55435952) | ["Containing IoT sensor telemetry"](http://www.slideshare.net/Docker/containing-iot-sensor-telemtry) | ["Using Docker with NoSQL"](http://www.slideshare.net/Docker/using-docker-with-nosql) | ["How are containers enabling 20th Century Fox to release the next great movie?"](http://www.slideshare.net/Docker/how-are-containers-enabling-20th-century-fox-to-release-the-next-great-movie) |  |
 | ["cgroups, namespaces and beyond: what are containers made from?"](http://www.slideshare.net/Docker/cgroups-namespaces-and-beyond-what-are-containers-made-from) | "Docker Orchestration at Production Scale" by [@aluzzardi](https://twitter.com/aluzzardi) | ["Shipping Manifests, bill of Lading and Docker - Metadata for Containers"](http://www.slideshare.net/Docker/shipping-manifests-bill-of-lading-and-docker-metadata-and-container) | ["Swarming Spark applications"](http://www.slideshare.net/Docker/zoe-swarming-spark-applications) | "Lightning Talks: [Univa](http://www.slideshare.net/Docker/docker-for-any-type-of-workload-and-any-it-infrastructure), [ClusterHQ](http://www.slideshare.net/Docker/why-should-i-care-about-stateful-containers-55438327), [Rancher](http://www.slideshare.net/Docker/deploy-and-upgrade-docker-applications-with-a-single-click)" |  |
 | ["Experiences with AWS immutable deploys and job processing"](http://www.slideshare.net/Docker/experiences-with-aws-immutable-deploys-and-job-processing) | "Understanding Docker Security" by [@nathanmccauley](https://twitter.com/nathanmccauley) & [@diogomonica](https://twitter.com/diogomonica) | ["DNS Service Discovery for Docker Swarm Clusters"](http://www.slideshare.net/Docker/dns-service-discovery-for-docker-swarm) | ["Placing a container on a train at 200 mph"](http://www.slideshare.net/Docker/placing-a-container-on-a-train-at-200mph) | "Lightning Talks: [CloudBees](http://www.slideshare.net/Docker/build-publish-deploy-and-test-docker-images-and-containers-with-jenkins-workflow), [Ruxit](http://www.slideshare.net/AloisReitbauer/monitoring-docker-application-in-production), [Cloudsoft](http://www.slideshare.net/Docker/multicontainer-apps-spanning-docker-mesos-and-openstack)" | "Introduction to the Docker Project: Machine, Kitematic, Compose" |
-| ["Live migrating a container: pros, cons and gotchas"](http://www.slideshare.net/Docker/shipping-manifests-bill-of-lading-and-docker-metadata-and-container) | "Docker Networking Deep Dive" by [@dave_tucker](http://twitter.com/dave_tucker) | ["Stop Being Lazy and Test Your Software"](http://www.slideshare.net/rheinwein/stop-being-lazy-and-test-your-software) | ["Finding a Theory of the Universe with Docker and Volunteer Computers"](http://www.slideshare.net/Docker/finding-a-theory-of-the-universe-with-docker-and-volunteer-computers) | "Lightning Talks: Google, Raspberry Pi Challenge Winner, [Resin.io](http://www.slideshare.net/Docker/docker-on-iot-devices)" |  |
+| ["Live migrating a container: pros, cons and gotchas"](http://www.slideshare.net/Docker/live-migrating-a-container-pros-cons-and-gotchas) | "Docker Networking Deep Dive" by [@dave_tucker](http://twitter.com/dave_tucker) | ["Stop Being Lazy and Test Your Software"](http://www.slideshare.net/rheinwein/stop-being-lazy-and-test-your-software) | ["Finding a Theory of the Universe with Docker and Volunteer Computers"](http://www.slideshare.net/Docker/finding-a-theory-of-the-universe-with-docker-and-volunteer-computers) | "Lightning Talks: Google, Raspberry Pi Challenge Winner, [Resin.io](http://www.slideshare.net/Docker/docker-on-iot-devices)" |  |
 
-**Tools**
-- Container Migration Tool
 
 ##Day 2:
 
@@ -64,3 +62,15 @@
 - Day 2 General section: https://www.youtube.com/watch?v=i8YM4bkpR-E
 - Day 2 Closing general section: https://www.youtube.com/watch?v=ZBcMy-_xuYk
 
+## Cool Tools Highlighted at DockerCon 2015
+
+- [Container Migration Tool](https://github.com/marcosnils/cmt)
+- IPVS Daemon [gorb](http://github.com/kobolog/gorb)
+- [Using Docker to parallelize rails tests](http://blog.codeship.com/using-docker-to-parallelize-rails-tests) with [Jet](https://codeship.com/documentation/tags/jet/)
+- AWS Immutable Deployment Framework [ionroller](https://github.com/gilt/ionroller) - Alternative: Cloudformation+CodeDeploy
+- Docker Labels Linter: [Docker-label-inspector](https://github.com/garethr/docker-label-inspector)
+- DNS Service Discovery for Swarm: [wagl](https://github.com/ahmetalpbalkan/wagl)
+- Yelp's [PaaSTA](https://github.com/Yelp/paasta/)
+- [ecs-cli up](http://www.slideshare.net/Docker/from-local-development-to-production-deployments-using-amazon-ecs-cli)
+- Embedded Linxu - [Yocto](https://www.yoctoproject.org/)
+- Scaling [Spark](http://spark.apache.org/) with [Zoe analytics](http://zoe-analytics.eu/)
