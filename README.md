@@ -74,3 +74,6 @@
 - [ecs-cli up](http://www.slideshare.net/Docker/from-local-development-to-production-deployments-using-amazon-ecs-cli)
 - Embedded Linxu - [Yocto](https://www.yoctoproject.org/)
 - Scaling [Spark](http://spark.apache.org/) with [Zoe analytics](http://zoe-analytics.eu/)
+
+** [Twitter Stream](https://twitter.com/search?q=%40dockercon%20OR%20%23dockercon) **
+
