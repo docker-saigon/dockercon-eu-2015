@@ -43,7 +43,7 @@
   - [Docker Subscription on AWS Now Available in Europe](http://blog.docker.com/2015/11/aws-docker-eu/)
 - Closing Session: [Cool Hacks from DockerCon EU](http://blog.docker.com/2015/11/dockercon-eu-2015-container-migration-tool/)
   - Container Migration Tool: [DockerCon Demo](https://youtu.be/ZBcMy-_xuYk?t=221) - [Blog](http://blog.mantika.io/GHD/)
-    - Applications transprently compiled to Unikernels & managed by Docker: [DockerCon Demo](https://youtu.be/ZBcMy-_xuYk?t=874) - [Blog](http://unikernel.org/blog/2015/unikernels-meet-docker/)
+    - Applications transparently compiled to Unikernels & managed by Docker: [DockerCon Demo](https://youtu.be/ZBcMy-_xuYk?t=874) - [Blog](http://unikernel.org/blog/2015/unikernels-meet-docker/) - [Source Code](http://unikernel.org/blog/2015/contain-your-unikernels/)
   - DockerCraft: Visualize deployed docker containers using MineCraft... I'm not linking that nor am I linking KubeCraft...
 
 **Slides from Day 2 Sessions**
