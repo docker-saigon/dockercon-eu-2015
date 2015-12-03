@@ -71,7 +71,7 @@
 - [Using Docker to parallelize rails tests](http://blog.codeship.com/using-docker-to-parallelize-rails-tests) with [Jet](https://codeship.com/documentation/tags/jet/)
 - AWS Immutable Deployment Framework [ionroller](https://github.com/gilt/ionroller) - Alternative: Cloudformation+CodeDeploy
 - Docker Labels Linter: [Docker-label-inspector](https://github.com/garethr/docker-label-inspector)
-- DNS Service Discovery for Swarm: [wagl](https://github.com/ahmetalpbalkan/wagl)
+- DNS Service Discovery for Swarm: [wagl](https://github.com/ahmetalpbalkan/wagl) - [blog](https://ahmetalpbalkan.com/blog/wagl/)
 - Scaling [Spark](http://spark.apache.org/) with [Zoe analytics](http://zoe-analytics.eu/)
 - [Helm](https://helm.sh/)
 - VMWare [Photon Controller](http://vmware.github.io/photon-controller/)
